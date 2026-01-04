@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    .forecast-container {
+        flex-direction: column;
+    }
+
+    .search-box {
+        flex-direction: column;
+    }
+}
